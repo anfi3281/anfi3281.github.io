@@ -1,0 +1,85 @@
+body{
+    background: url('back.png') repeat;
+}
+
+.kon_bsr{
+    background: white;
+    display: block;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+}
+
+
+.gambar{
+    display: block;
+    margin-left: auto;rgb(255, 196, 0);
+    margin-right: auto;
+    width: 200px;
+    height: 113px;
+    margin-top: 20px;
+}
+
+.bwh_gbr{
+    padding-top: 5px;
+    border: 1px solid black;
+    border-bottom-width: 2px;
+    border-top-style:none;
+    border-left-style:none;
+    border-right-style:none;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kotak{    
+    width: 500px;
+    background-position: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    opacity: 1;
+    text-transform: bold;
+    
+}
+@font-face{
+    font-family: latin;
+    src: url(Heartblues.ttf);    
+}
+
+@font-face{
+    font-family: baru;
+    src: url(28.ttf);
+}
+.judul{
+    text-align: center;
+    font-family: latin;
+    font-style: italic;
+    color: black;
+    opacity: 0.8;
+    font-variant: inherit;
+    letter-spacing: 3px; 
+    margin-bottom: 6px;
+    margin-top: 3px;
+}
+
+.bwh_jdl{
+    padding: -5px;
+    border: 2px solid black;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: dashed;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    font-size: 20pt;
+    text-decoration: none;
+    color: burlywood;
+    font-family: baru;
+}

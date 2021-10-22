@@ -9,6 +9,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     height: 700px;
+    padding-top: 1px;    
 }
 
 
@@ -19,6 +20,7 @@ body{
     width: 200px;
     height: 113px;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .bwh_gbr{

@@ -80,6 +80,7 @@ body{
 a{
     font-size: 20pt;
     text-decoration: none;
-    color: burlywood;
+    color: black;
+    opacity: 0.4;
     font-family: baru;
 }

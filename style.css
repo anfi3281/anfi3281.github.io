@@ -4,6 +4,18 @@ body{
 
 .jumbotron {
     padding-top: 2rem ;
-    background-color: rgba(255, 166, 0, 0.164);
+    background-image: url('./img/projects/us.png');
+    background-attachment: fixed;
+    background-size: cover;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
 
+.about{
+    background-color: #fd9400;
+}
+
+#projects{
+    background-color: #fff;
 }

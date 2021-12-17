@@ -3,7 +3,7 @@ body{
 }
 
 .jumbotron {
-    padding-top: 2rem ;
+    padding-top: 2rem 
     background-image: url('./img/projects/us.png');
     background-attachment: fixed;
     background-size: cover;

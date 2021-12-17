@@ -1,21 +1,21 @@
-body{
-    min-height: 2000px;
+body {
+  min-height: 2000px;
 }
 
 .jumbotron {
-    padding-top: 2rem 
-    background-image: url('./img/projects/us.png');
-    background-attachment: fixed;
-    background-size: cover;
-    display: block;
-    margin-left:auto;
-    margin-right: auto;
+  padding-top: 2rem;
+  background-image: url("./img/projects/us.png");
+  background-attachment: fixed;
+  background-size: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.about{
-    background-color: #fd9400;
+.about {
+  background-color: #fd9400;
 }
 
-#projects{
-    background-color: #fff;
+#projects {
+  background-color: #fff;
 }
